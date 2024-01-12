@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 👯 I’m looking to collaborate on **Backend Project**
-
-- 🤝 I’m looking for help with **API development and Webscraping projects**
+- 👯 I’m looking to collaborate on **Backend Project, API development and Webscraping projects**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/matthew-ndubuisi-06192b254](https://www.linkedin.com/in/matthew-ndubuisi-06192b254)
 
-- 💬 Ask me about **Express, Django, Flask, Python, JavaScript, Bash Scripting, MySQL and Backend Development**
+- 💬 Ask me about **Node.js(Express), Django, Flask, Python, JavaScript, Bash Scripting, MySQL and Backend Development**
 
 - 📫 How to reach me **ndubuisimathew8@gmail.com**
 
